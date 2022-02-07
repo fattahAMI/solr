@@ -10,19 +10,19 @@
       "item": [
         {
           "name": "New Request",
-          "_postman_id": "d6ed0f99-dbbf-4273-9165-1d28649e12a8",
+          "id": "d6ed0f99-dbbf-4273-9165-1d28649e12a8",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
           },
           "request": {
             "method": "GET",
             "header": [],
-            "url": "/tester"
+            "url": "/tester/2"
           },
           "response": []
         }
       ],
-      "_postman_id": "dfc7db3f-8802-47c6-8ed0-52dc551d1ec2"
+      "id": "dfc7db3f-8802-47c6-8ed0-52dc551d1ec2"
     }
   ]
 }
